@@ -1,0 +1,2 @@
+# WEVINA-nn-coin
+WNC
